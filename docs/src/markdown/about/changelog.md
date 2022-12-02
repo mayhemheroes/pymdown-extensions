@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.10a1
+
+- **NEW**: Experimental general purpose blocks.
+
 ## 9.9.2
 
 - **FIX**: Snippets syntax can break in XML comments as XML comments do not allow `--`. Relax Snippets syntax such that
